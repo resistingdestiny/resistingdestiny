@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website | Vercel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />][youtube]
+[<img align="left" alt="Website | Vercel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />][vercel]
 [<img align="left" alt="Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [vercel]:https://www.benedictaltier.com
